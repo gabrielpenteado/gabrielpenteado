@@ -1,6 +1,7 @@
-<!-- <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
-</div> -->
+<div align="center">
+  <!-- ![Alt text of the image](https://github.com/username/repository/blob/main/img/octocat.png) -->
+  <img width="100%" src="https://github.com/gabrielpenteado/gabrielpenteado/blob/main/img/gabrielpenteado.png" alt="cover" />
+</div>
 
 # Hello! My name is Gabriel Penteado
 
