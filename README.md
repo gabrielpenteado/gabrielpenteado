@@ -5,48 +5,54 @@
 
 <br>
 
-<h2 align="center">  
-Skills & Tools
-  <hr>  
-    <a>
-      <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,js,html,css,git,github,tailwind,vite,nodejs,express,prisma,graphql,mysql,postgres,mongodb,docker,figma,firebase,jest,linux,vscode&perline=12" />
-    </a>
-  <hr>
-</h2>
-
+<div align="center">  
+  <h2>Skills & Tools</h2>
+  <br>
+  <a>
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,js,html,css,git,github,tailwind,vite,nodejs,express,prisma,graphql,mysql,postgres,mongodb,docker,figma,firebase,jest,linux,vscode&perline=12" />
+  </a>
+  <!-- <hr> -->
+</div>
+<br>
 <br>
 
-# Hello! My name is Gabriel Penteado
+<div align="center">  
+    <h2>Contact me</h2>
+    <br>
+    <a href="https://www.linkedin.com/in/gabriel-penteado">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:gabripenteado@gmail.com">
+      <img src="https://img.shields.io/badge/gabripenteado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</div>
 
-## I am a Full Stack Developer
+<div align="center">  
+  <hr>  
+ <strong style="font-size: 24px">Contact me</strong>
+    <a href="https://www.linkedin.com/in/gabriel-penteado">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:gabripenteado@gmail.com">
+      <img src="https://img.shields.io/badge/gabripenteado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  <hr>
+</div>
 
 - 🖥️  See my portfolio at [https://gabrielpenteado.vercel.app](http://gabrielpenteado.vercel.app)
 - ✉️  You can contact me at [gabripenteado@gmail.com](mailto:gabripenteado@gmail.com)
 - ⏳  I'm learning Vue
 - 🎾  I like to play tennis and piano
 
-### Skills
-
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,js,html,css,git,github,tailwind,vite,nodejs,express,prisma,graphql,mysql,postgres,mongodb,docker,figma,firebase,jest,linux,vscode&perline=12" />
-  </a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/gabrielpenteado" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/gabrielpenteado" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://gabrielpenteado.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabrielpenteado" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/gabripenteado" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-
 <h2 align="center"><b>Connect with me</b></h2>
 
 <div align="center">
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-penteado)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielpenteado)
 [![Gmail](https://img.shields.io/badge/gabripenteado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabripenteado@gmail.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.hashnode.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-penteado)
 [![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://gabripenteado.medium.com/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.hashnode.dev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge)](https://dev.to/gabrielpenteado)
 <br />
 <br />
