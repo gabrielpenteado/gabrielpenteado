@@ -18,8 +18,9 @@
 <h2>Contact me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-penteado)
-[![Gmail](https://img.shields.io/badge/gabripenteado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabripenteado@gmail.com)
 [![Vercel](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.vercel.app)
+[![Download Resume](https://img.shields.io/badge/Resume-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://gabrielpenteado.vercel.app/gabrielpenteado.pdf)
+[![Gmail](https://img.shields.io/badge/gabripenteado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabripenteado@gmail.com)
 
 </div>
 
@@ -32,12 +33,14 @@
 
 </div>
 
-<div align="center">  
+<!-- <div align="center">
 <h2>Things I like</h2>
-🎾 - 🎹 - ✈️ - ⛪ - 💻 - 📱 - ☕ - 🎦 - 🍩 - 🍦 - 🍕 - 🎮 - 🔭  
-</div>
+🎾 - 🎹 - ✈️ - ⛪ - 💻 - 📱 - ☕ - 🎦 - 🍩 - 🍦 - 🍕 - 🎮 - 🔭
+</div> -->
 
 <!-- - 🖥️  See my portfolio at [https://gabrielpenteado.vercel.app](http://gabrielpenteado.vercel.app)
 - ✉️  You can contact me at [gabripenteado@gmail.com](mailto:gabripenteado@gmail.com)
 - ⏳  I'm learning Vue
 - 🎾  I like to play tennis and piano -->
+
+<!-- ![Resume](https://img.shields.io/badge/Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) -->
