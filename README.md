@@ -18,9 +18,16 @@
 <h2>Contact me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-penteado)
-[![Vercel](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.vercel.app)
 [![Download Resume](https://img.shields.io/badge/Resume-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://gabrielpenteado.vercel.app/gabrielpenteado.pdf)
 [![Gmail](https://img.shields.io/badge/gabripenteado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabripenteado@gmail.com)
+
+</div>
+
+<div align="center">  
+<h2>Portfolio</h2>
+
+[![Portfolio1](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.vercel.app)
+[![Portfolio2](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabriel-projects.vercel.app)
 
 </div>
 
