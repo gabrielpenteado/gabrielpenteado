@@ -26,7 +26,7 @@
 <div align="center">  
 <h2>Portfolio</h2>
 
-[![Portfolio1](https://img.shields.io/badge/Portfolio1-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.vercel.app)
+[![Portfolio1](https://img.shields.io/badge/Portfolio1-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.pages.dev)
 [![Portfolio2](https://img.shields.io/badge/Portfolio2-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabriel-projects.vercel.app)
 
 </div>
