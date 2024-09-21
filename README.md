@@ -26,8 +26,9 @@
 <div align="center">  
 <h2>Portfolio</h2>
 
-[![Portfolio1](https://img.shields.io/badge/Portfolio1-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.pages.dev)
-[![Portfolio2](https://img.shields.io/badge/Portfolio2-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabriel-projects.vercel.app)
+[![Portfolio1](https://img.shields.io/badge/Portfolio1-F38020?logo=cloudflarepages&logoColor=fff&style=for-the-badge)](https://gabrielpenteado.pages.dev)
+[![Portfolio2](https://img.shields.io/badge/Portfolio2-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)](https://gabriel-penteado.netlify.app)
+[![Portfolio3](https://img.shields.io/badge/Portfolio3-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://gabriel-projects.vercel.app)
 
 </div>
 
