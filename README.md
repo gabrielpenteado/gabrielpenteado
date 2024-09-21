@@ -8,7 +8,7 @@
 <div align="center">  
   <h2>Skills & Tools</h2>
   <a>
-    <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,js,html,css,sass,git,github,tailwind,bootstrap,vite,nodejs,express,prisma,graphql,mysql,postgres,mongodb,docker,java,spring,angular,figma,firebase,vue,jest,cs,adonis,nestjs,linux,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,js,html,css,sass,git,github,tailwind,bootstrap,vite,nodejs,express,prisma,graphql,mysql,postgres,mongodb,docker,java,spring,angular,figma,firebase,vue,jest,python,cs,nestjs,linux,vscode&perline=11" />
   </a>
   <!-- <hr> -->
 </div>
