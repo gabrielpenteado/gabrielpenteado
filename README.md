@@ -1,7 +1,11 @@
-<div align="center">
-  <!-- ![Alt text of the image](https://github.com/username/repository/blob/main/img/octocat.png) -->
+<!-- <div align="center">
   <img width="100%" src="https://github.com/gabrielpenteado/gabrielpenteado/blob/main/img/gabrielpenteado.jpg" alt="cover" />
-</div>
+</div> -->
+
+<!-- <div align="center" style="display: flex; flex-direction: column">
+  <h1>Gabriel Penteado</h1>
+  <h2>Software Engineer</h2>
+</div> -->
 
 <br>
 
