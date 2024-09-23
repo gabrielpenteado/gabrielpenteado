@@ -22,7 +22,7 @@
 <h2>Contact me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/gabriel-penteado)
-[![Download Resume](https://img.shields.io/badge/Resume-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://gabrielpenteado.vercel.app/gabrielpenteado.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://gabrielpenteado.pages.dev/gabrielpenteado.pdf)
 [![Gmail](https://img.shields.io/badge/gabripenteado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabripenteado@gmail.com)
 
 </div>
