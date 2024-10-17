@@ -30,9 +30,10 @@
 <div align="center">  
 <h2>Portfolio</h2>
 
-[![Portfolio1](https://img.shields.io/badge/Portfolio1-F38020?logo=cloudflarepages&logoColor=fff)](https://gabrielpenteado.pages.dev)
-[![Portfolio2](https://img.shields.io/badge/Portfolio2-00C7B7?logo=netlify&logoColor=fff)](https://gabriel-penteado.netlify.app)
-[![Portfolio3](https://img.shields.io/badge/Portfolio3-000?logo=vercel&logoColor=fff)](https://gabriel-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F38020?logo=cloudflarepages&logoColor=fff)](https://gabrielpenteado.pages.dev)
+[![Projects](https://img.shields.io/badge/Projects-000?logo=vercel&logoColor=fff)](https://gabriel-projects.vercel.app)
+
+<!-- [![Portfolio2](https://img.shields.io/badge/Portfolio2-00C7B7?logo=netlify&logoColor=fff)](https://gabriel-penteado.netlify.app) -->
 
 </div>
 
